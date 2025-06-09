@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSE-AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nimishmakwana12@gmail.com
-Instagram:- not_nimish_2812
+Instagram:- why_nimish
 
 <!---
 Nimish02/Nimish02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
